@@ -10,4 +10,4 @@ Perfect example of well-structured, beginner-friendly code — organized into mo
 - Uses environment variables for secure API key storage
 
 
- Project Structure
+
