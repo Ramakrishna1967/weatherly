@@ -1,4 +1,4 @@
- Weatherly
+Weatherly
 
 A clean and minimal Python project that fetches real-time weather data for any city using the [OpenWeather API](https://openweathermap.org/api).  
 Perfect example of well-structured, beginner-friendly code — organized into modules for clarity and reuse.
