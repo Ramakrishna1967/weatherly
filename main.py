@@ -3,7 +3,7 @@ from utils import format_weather
 
 def main():
     print("Fucking weather app")
-    city = input("Enter city name: ").strip()
+    city = input("Enter  Fucking city name: ").strip()
 
     if not city:
         print("City name cannot be empty.")
@@ -13,7 +13,7 @@ def main():
     if data:
         print(format_weather(data))
     else:
-        print("Could not fetch weather data. Check your city name or connection.")
+        print("Youre fucking internet is fucking slow fuck off")
 
 if __name__ == "__main__":
     main()
