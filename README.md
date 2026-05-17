@@ -8,6 +8,6 @@ Perfect example of well-structured, beginner-friendly code — organized into mo
 - Clean code structure with separate logic for API calls and formatting
 - Error handling for invalid city names or network issues
 - Uses environment variables for secure API key storage
-
+WTF is going on here
 
 
