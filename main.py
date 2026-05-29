@@ -13,7 +13,7 @@ def main():
     if data:
         print(format_weather(data))
     else:
-        print("Youre fucking internet is fucking slow fuck off")
+        print("Everything is fuckked up")
 
 if __name__ == "__main__":
     main()
