@@ -2,7 +2,7 @@ from weather import get_weather
 from utils import format_weather
 
 def main():
-    print("Fucking weather app")
+    print(" diabocial weather app")
     city = input("Enter  Fucking city name: ").strip()
 
     if not city:
